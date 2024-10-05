@@ -123,5 +123,5 @@ sns.heatmap(corr, annot=True)
 
 
 # RESULT
-Hence performing Exploratory Data Analysis on the given data set is successful
+Hence performing Exploratory Data Analysis on the given data set is successful.
         
