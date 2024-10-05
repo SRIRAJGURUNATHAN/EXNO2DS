@@ -1,10 +1,5 @@
 # EXNO2DS
 
-`````
-NAME : SRIRAJ G
-DEPT : CSE
-REG NO : 212222040161
-`````
 # AIM:
 To perform Exploratory Data Analysis on the given data set.
       
